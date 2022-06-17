@@ -1,0 +1,32 @@
+body
+{
+    background-color: gainsboro;
+}
+
+#container
+{
+    background-color: background;
+    aling:center;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2
+{
+    color: #ffffff;
+    background-color: black;
+    text-align: center; 
+    width: 650px;
+}
+
+#tabla
+{
+     margin-left: auto;
+     margin-right: auto;
+}
+
+tr
+{
+ background-color: gainsboro; 
+}
